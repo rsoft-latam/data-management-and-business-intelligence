@@ -1,0 +1,13 @@
+# General
+*.log
+*.tmp
+*.bak
+*.ldf
+*.mdf
+
+# DBeaver workspace files
+.dbeaver/
+
+# OS generated files
+.DS_Store
+Thumbs.db
